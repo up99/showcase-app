@@ -1,0 +1,108 @@
+{
+  "colors": {
+    "teal_primary":  "#0D9488",
+    "teal_dark":     "#0F766E",
+    "teal_light":    "#CCFBF1",
+    "bg_app":        "#E8F5F4",
+    "bg_panel":      "#FFFFFF",
+    "bg_sidebar":    "#FFFFFF",
+    "bg_input":      "#F0FAFA",
+    "text_heading":  "#0F172A",
+    "text_body":     "#334155",
+    "text_muted":    "#94A3B8",
+    "border":        "#E2E8F0",
+    "shadow":        "rgba(15,118,110,0.08)",
+
+    "danger_bg":     "#FEF2F2",
+    "danger_fg":     "#EF4444",
+    "danger_border": "#FECACA"
+  },
+
+  "fonts": {
+    "family":   "'Segoe UI', 'SF Pro Display', sans-serif",
+    "size_xs":  11,
+    "size_sm":  12,
+    "size_md":  13,
+    "size_lg":  14,
+    "size_xl":  16,
+    "size_2xl": 18,
+    "size_3xl": 28
+  },
+
+  "radii": {
+    "button":  10,
+    "card":    14,
+    "input":   12,
+    "dialog":   8,
+    "sidebar": 12
+  },
+
+  "borders": {
+    "thin":   "1px",
+    "medium": "1.5px",
+    "thick":  "2px"
+  },
+
+  "spacing": {
+    "sidebar_width":    200,
+    "content_margin":   16,
+    "card_padding":     20,
+    "button_padding_v": 10,
+    "button_padding_h": 20
+  },
+
+  "components": {
+    "button_primary": {
+      "min_height": 40,
+      "font_weight": 600
+    },
+    "button_secondary": {
+      "min_height": 40,
+      "font_weight": 500
+    },
+    "calc_num": {
+      "min_height": 52,
+      "min_width":  52,
+      "font_size":  16,
+      "font_weight": 500
+    },
+    "calc_op": {
+      "min_height": 52,
+      "min_width":  52,
+      "font_size":  16,
+      "font_weight": 600
+    },
+    "calc_eq": {
+      "min_height": 52,
+      "min_width":  52,
+      "font_size":  18,
+      "font_weight": 700
+    },
+    "calc_clear": {
+      "min_height": 52,
+      "min_width":  52,
+      "font_size":  14,
+      "font_weight": 600
+    },
+    "calc_display": {
+      "font_size":   28,
+      "font_weight": 700,
+      "min_height":  60,
+      "padding":     "16px 20px"
+    },
+    "stl_load": {
+      "min_height":  44,
+      "font_size":   14,
+      "font_weight": 600,
+      "padding":     "12px 28px"
+    },
+    "section_title": {
+      "font_size":   18,
+      "font_weight": 700
+    },
+    "section_sub": {
+      "font_size":   12,
+      "font_weight": 400
+    }
+  }
+}
