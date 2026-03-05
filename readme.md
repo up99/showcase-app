@@ -1,6 +1,6 @@
 # Showcase App
 
-A multi-tab desktop application built with PySide6 and OpenGL, featuring a Calculator, a Drawing Canvas, and a 3D STL Viewer.
+A multi-tab desktop application built with PySide6 and OpenGL, featuring a Calculator, a Drawing canvas, and a 3D STL Viewer.
 
 ---
 
