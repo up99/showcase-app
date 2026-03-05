@@ -1,4 +1,4 @@
-# Dashboard App
+# Showcase App
 
 A multi-tab desktop application built with PySide6 and OpenGL, featuring a Calculator, a Drawing Canvas, and a 3D STL Viewer.
 
@@ -26,6 +26,7 @@ cd dashboard-app
 # Windows
 python -m venv venv
 venv\Scripts\activate
+# or venv\Scripts\Activate.ps1
 
 # macOS / Linux
 python3 -m venv venv
