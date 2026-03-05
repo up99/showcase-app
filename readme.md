@@ -59,7 +59,11 @@ showcase-app/
 ├── requirements.txt   # Python dependencies
 ├── apps/              # inner apps
 ├── stl-example/       # STL sample file
-└── icons/             # SVG icons used in the app
+├── icons/             # SVG icons used in the app
+└── screenshot/
+    ├── calculator.png
+    ├── drawing.png
+    └── stl_viewer.png
 ```
 
 ---
@@ -69,8 +73,11 @@ showcase-app/
 | Tab | Description |
 |---|---|
 | **Calculator** | Standard arithmetic with keyboard support. Only valid characters are accepted. Results are rounded to 3 decimal places. |
+![App screenshot](screenshot/calculator.png)
 | **Drawing** | Freehand canvas with color picker, brush sizes, and JPEG export. |
+![App screenshot](screenshot/drawing.png)
 | **3D STL Viewer** | Load and rotate STL models. Drag to rotate, scroll to zoom. |
+![App screenshot](screenshot/stl_viewer.png)
 
 ---
 
