@@ -16,7 +16,7 @@ A multi-tab desktop application built with PySide6 and OpenGL, featuring a Calcu
 ### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/yourname/dashboard-app.git
+git clone https://github.com/up99/showcase-app.git
 cd dashboard-app
 ```
 
